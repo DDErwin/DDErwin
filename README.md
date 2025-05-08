@@ -1,4 +1,6 @@
-## Hi there 👋
+## Dennis Erwin
+___
+Self-driven full-stack developer with 10+ years of experience delivering scalable, cloud-based applications. Proven record of leading high-impact projects end-to-end, driving business value through automation, data reporting, and infrastructure modernization. Adept at cloud technologies, backend architecture, and mentoring junior developers. Currently deepening expertise in DevOps, Docker, and Kubernetes to grow into technical leadership and architectural roles.
 
 <!--
 **DDErwin/DDErwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
